@@ -1,5 +1,6 @@
-# decentralized-governance
-Decentralized Governance Reading List
+# Decentralized Governance Reading List
+
+## Getitng Started
 
 A good place to start to understand what is required, taking inspiration of an 18th century effort at governance:
 https://medium.com/@BuckPerley/crypto-governance-f1318affbbe0
@@ -37,7 +38,7 @@ Tim Bansemer: First World Summit for Blockchain Governance, Athens 7th-9th of Se
 https://docs.google.com/document/d/1dm4XWTmdjZ1TDWAnnaIWpZ3fVWQMue8K3C2SrP89VVw/edit#
 
 
-Projects Building Governance Models
+## Projects Building Governance Models
 
 Aragon
 1.  [Governance and Network Effects](https://blog.aragon.one/thoughts-on-governance-and-network-effects-f40fda3e3f98)
