@@ -67,7 +67,7 @@ Eos
 
 Ethereum
 1.  [Notes on Blockchain Governance](https://vitalik.ca/general/2017/12/17/voting.html)
-1.  [Governance, Part 2: Plutocracy Is Still Bad](https://vitalik.ca/general/2018/03/28/plutocracy.html
+1.  [Governance, Part 2: Plutocracy Is Still Bad](https://vitalik.ca/general/2018/03/28/plutocracy.html)
 1.  [Against On-Chain Governance](https://medium.com/@Vlad_Zamfir/against-on-chain-governance-a4ceacd040ca)
 1.  [Some Thoughts On Blockchain Governance](https://medium.com/@Vlad_Zamfir/some-thoughts-on-blockchain-governance-4b88e63d4e64)
 1.  [History of Casper Part 1](https://medium.com/@Vlad_Zamfir/the-history-of-casper-part-1-59233819c9a9)
