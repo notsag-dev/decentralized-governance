@@ -48,7 +48,7 @@ Bounties
 1.  [Introducing Delphi](https://www.reddit.com/r/ethereum/comments/7kmogz/introducing_delphi_a_generalized_mechanism_for/)
 
 Cosmos
-1.  [Governance and Constitution](https://github.com/cosmos/constitution/wiki/Governance-and-Constitution)
+1.  [Governance](https://github.com/cosmos/cosmos/blob/master/GOVERNANCE_DOC.md)
 
 DAOstack
 1.  [Decentralized Governance First Principles](https://medium.com/daostack/decentralized-governance-first-principles-1fc6eaa492ed)
