@@ -1,6 +1,6 @@
 # Decentralized Governance Reading List
 
-## Getitng Started
+## Getting Started
 
 A good place to start to understand what is required, taking inspiration of an 18th century effort at governance:
 https://medium.com/@BuckPerley/crypto-governance-f1318affbbe0
